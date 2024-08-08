@@ -1,0 +1,1 @@
+const o="Johnathan Smithsan",t='A designer from NYC, New York. Currently working at Apple, bringing "innovation" to the world in the form of technology.',e="https://www.portotheme.com/wordpress/porto/shortcodes/wp-content/uploads/sites/32/2016/06/team-1.jpg",n={name:o,description:t,image:e};export{n as p};
