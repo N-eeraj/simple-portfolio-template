@@ -36,4 +36,14 @@ The UI colors are taken from the `color.json` file in the `theme` directory, it 
 - `secondary` is the color of the text, links & buttons etc.
 - `accent` color is used for certain indication.
 
-Make sure the primary contrasts with the secondary and the secondary contrasts with the primary when switching up the theme.
+Make sure the primary contrasts with the secondary when switching up the theme.
+
+> Design inspiration from [Magic UI](https://magicui.design/docs/templates/portfolio)
+
+### Features/Sections
+
+- Hero
+- About
+- Skills
+- Experience
+- Footer
